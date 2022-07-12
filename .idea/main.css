@@ -1,0 +1,21 @@
+
+.big{
+    width: 100%;
+    height: 300px;
+    background: maroon;
+    position: relative;
+    margin: 40px;
+}
+.three{
+    width: 200px;
+    height: 200px;
+    background: crimson;
+    border-radius: 10px;
+
+}
+.tree{
+    display: flex;
+    justify-content: space-between;
+    position:relative;
+    bottom:-200px;
+}
